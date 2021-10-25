@@ -1,0 +1,8 @@
+{
+    "name": "Sworzz Theme",
+    "description": "Best Theme if you dont like the original!",
+    "version": "3.0",
+    "author": "Sworzz#4651",
+    "theme": "Sworzz.theme.css",
+    "consent": ["ext_listing"],
+}
